@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:handling_user_inputs/grocery_list.dart';
-import 'package:handling_user_inputs/new_item.dart';
+import 'package:handling_user_inputs/widgets/grocery_list.dart';
+import 'package:handling_user_inputs/widgets/new_item.dart';
 
 void main() {
   runApp(const MyApp());
